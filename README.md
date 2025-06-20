@@ -1,4 +1,4 @@
-BashBot-KDE 🐧💻🎉
+# BashBot-KDE 🐧💻🎉
 
 Meet  **BashBot-KDE** , your Linux buddy who talks *only* in bash commands wrapped in JSON, runs them one by one, and if it messes up, cries to the AI and tries again. It has zero memory (bless its little bot heart) but somehow manages to get stuff done. Kind of like you, but less coffee-dependent.
 
